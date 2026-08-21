@@ -1,0 +1,1 @@
+print("Welcome to the Price Tracker ETL Project!")
